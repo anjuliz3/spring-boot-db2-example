@@ -1,1 +1,1 @@
-# spring-boot-db2-example
+# spring-boot-db2-examples
